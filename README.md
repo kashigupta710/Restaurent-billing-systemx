@@ -145,7 +145,7 @@ Some features that can be added in future versions:
 
 ## 👨‍💻 Author
 
-**Vedang Dwivedi**
+**KASHI GUPTA**
 
 First-Year Student | C Programming Project
 
